@@ -1,0 +1,2 @@
+# LoggingSample
+Seq Logging Sample
